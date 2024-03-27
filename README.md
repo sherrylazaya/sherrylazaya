@@ -1,5 +1,9 @@
 ### Gotcha! ✨
-👋 Hi everyone! I'm Sherryl, initiator of new programmers! Enthusiastic about becoming a Front End Developer ☆*: .｡. o(≧▽≦)o .｡.:*☆
+👋 Hi everyone! I'm Sherryl, initiator of new programmers! 
+
+Enthusiastic about becoming a Front End Developer 
+
+☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 🙋‍♀️ About Me
 
