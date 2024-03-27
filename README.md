@@ -1,12 +1,12 @@
 ### Gotcha! ✨
 👋 Hi everyone! I'm Sherryl, initiator of new programmers! Enthusiastic about becoming a Front End Developer ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-About Me
+🙋‍♀️ About Me
 
-What I Do
+👩‍💻 What I Do
 
-Programming Language
-![php](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/196d6b27-6f03-439b-be63-cf9bae6843d1) ![javascript](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/da6b3340-7a2e-458c-9e73-f3bdc527fd09)
+💻 Programming Language
+![1](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/20a44e58-351e-4860-94ea-35c967726a50) ![2](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/da709be3-57a8-4fe5-b67c-ecaf52ee9666)
 
 Let's Connect
 📧 Email: sherrylazaya@gmail.com
