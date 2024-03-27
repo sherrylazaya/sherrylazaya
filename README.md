@@ -6,7 +6,7 @@ About Me
 What I Do
 
 Programming Language
-![php](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/fb1926db-ada3-4f35-aafb-0e287328cc5c) ![javascript](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/da6b3340-7a2e-458c-9e73-f3bdc527fd09)
+![php](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/196d6b27-6f03-439b-be63-cf9bae6843d1) ![javascript](https://github.com/sherrylazaya/sherrylazaya/assets/160846170/da6b3340-7a2e-458c-9e73-f3bdc527fd09)
 
 Let's Connect
 📧 Email: sherrylazaya@gmail.com
